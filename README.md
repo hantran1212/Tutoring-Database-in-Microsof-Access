@@ -11,7 +11,7 @@ Microsoft Access and Microsoft SQL Server.
 
 ## Actions & Findings:
 
-# Write SQL to:
+### Write SQL to:
 
 ​Create and modify table designs.
 
@@ -24,7 +24,7 @@ Perform aggregate functions.
 Join tables
 
 
-# Use MS Access to:
+### Use MS Access to:
 
 ​Create an Entity Relationship Diagram
 
