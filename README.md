@@ -1,16 +1,16 @@
 # Tutoring-Database-in-Microsoft-Access-
 
-Project 4: Tutoring Database in Microsoft Access
-Objective: Design Tutoring databases using normalization and entity-relationship diagrams, develop data models, and build applications with database management systems.
+##Objective: Design Tutoring databases using normalization and entity-relationship diagrams, develop data models, and build applications with database management systems.
 
 
-Tools/Skills: Microsoft Access and Microsoft SQL Server.
+##Tools/Skills: 
+Microsoft Access and Microsoft SQL Server.
 
 ​
 
-Actions & Findings:
+##Actions & Findings:
 
-Write SQL to:
+#Write SQL to:
 
 ​Create and modify table designs.
 
@@ -22,7 +22,8 @@ Perform aggregate functions.
 
 Join tables
 
-Use MS Access to:
+
+#Use MS Access to:
 
 ​Create an Entity Relationship Diagram
 
